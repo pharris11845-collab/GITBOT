@@ -1,0 +1,2 @@
+# GITBOT
+Forex Trading Bot
